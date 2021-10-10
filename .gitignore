@@ -1,0 +1,7 @@
+
+*.pbo
+*.bak
+*.bisign
+.idea
+*.code-workspace
+/.vs
